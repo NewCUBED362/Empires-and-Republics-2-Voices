@@ -11,3 +11,5 @@ Saladin - Anas (arabic)
 Pericles - Konstantinos (greek)
 
 Chandragupta - Jeet (Hindi, Bahari accent)
+
+Frederick - Christian (German, standard)
